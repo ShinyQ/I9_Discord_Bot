@@ -1,0 +1,27 @@
+{
+  "name": "i9_bot",
+  "version": "1.0.0",
+  "description": "I9 Helper Bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinyQ/I9_Discord_Bot.git"
+  },
+  "keywords": [
+    "i9"
+  ],
+  "author": "kurniadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinyQ/I9_Discord_Bot/issues"
+  },
+  "homepage": "https://github.com/ShinyQ/I9_Discord_Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "nodemon": "^2.0.3"
+  }
+}
